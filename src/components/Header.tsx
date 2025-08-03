@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
 import ThemeDropdown from "./ThemeDropdown";
 
-import React from 'react'
-
 const Header = () => {
   return (
      <header className="flex items-center justify-between p-6 shadow-[0_4px_6px_-1px_rgba(0,0,0,0.1)]">
