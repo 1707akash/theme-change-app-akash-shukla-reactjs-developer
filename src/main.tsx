@@ -1,5 +1,5 @@
-import React,{ StrictMode } from "react";
-import ReactDOM, { createRoot } from "react-dom/client";
+import React from "react";
+import { createRoot } from "react-dom/client";
 import App from "./App.tsx";
 import { Provider } from "react-redux";
 import { store } from "./redux/store.ts";
